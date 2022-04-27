@@ -17,7 +17,7 @@ const ap = new APlayer({
             artist: 'ZARD',                       //音频艺术家
             url: 'https://cdn.jsdelivr.net/gh/naiveclub/WordPress@main/static/music/ZARD%20(%E3%82%B6%E3%83%BC%E3%83%89)%20-%20%E9%81%8B%E5%91%BD%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%AC%E3%83%83%E3%83%88%E5%BB%BB%E3%81%97%E3%81%A6%20(%E8%BD%AC%E5%8A%A8%E5%91%BD%E8%BF%90%E4%B9%8B%E8%BD%AE).ogg',                         //音频链接
             cover: 'https://cdn.jsdelivr.net/gh/naiveclub/WordPress@main/static/music/mzt.jpg',                     //音频封面
-            lrc: 'https://cdn.jsdelivr.net/gh/naiveclub/WordPress@main/static/music/ZARD%20(%E3%82%B6%E3%83%BC%E3%83%89)%20-%20%E9%81%8B%E5%91%BD%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%AC%E3%83%83%E3%83%88%E5%BB%BB%E3%81%97%E3%81%A6%20(%E8%BD%AC%E5%8A%A8%E5%91%BD%E8%BF%90%E4%B9%8B%E8%BD%AE).lrc',                         //歌词
+            //lrc: 'https://cdn.jsdelivr.net/gh/naiveclub/WordPress@main/static/music/ZARD%20(%E3%82%B6%E3%83%BC%E3%83%89)%20-%20%E9%81%8B%E5%91%BD%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%AC%E3%83%83%E3%83%88%E5%BB%BB%E3%81%97%E3%81%A6%20(%E8%BD%AC%E5%8A%A8%E5%91%BD%E8%BF%90%E4%B9%8B%E8%BD%AE).lrc',                         //歌词
             //theme: '#ebd0c2'                         //切换到此音频时的主题色，比上面的 theme 优先级高
         }
     ]
