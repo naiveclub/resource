@@ -1,2 +1,2 @@
-# WordPress
-WordPress静态资源加速
+# Resource
+托管本人自用的资源
